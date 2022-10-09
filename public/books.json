@@ -1,0 +1,83 @@
+[
+    {
+        "id": "63425793319cdd67f4510f57",
+        "quantity": 0,
+        "balance": 400,
+        "picture": "https://uploads.sitepoint.com/wp-content/uploads/2017/03/1488480428eloquent-js.jpg",
+        "name": "Eloquent JavaScript",
+        "author": "Marijn Haverbeke",
+        "about": "Eloquent JavaScript by Marijn Haverbeke is a book is aimed at ambitious beginners. The author assumes no prior JavaScript knowledge on the part of the reader and does a great job of introducing them to the language in an informative, yet entertaining way. One of my favorite things about this book is that it doesn’t just focus on the mechanics of the language, rather it teaches the fundamental concepts of programming and computer science to boot."
+    },
+    {
+        "id": "6342579381df4468be18191d",
+        "quantity": 0,
+        "balance": "599",
+        "picture": "https://uploads.sitepoint.com/wp-content/uploads/2017/03/1488480626ydkjs.jpg",
+        "name": "You Don’t Know JS",
+        "author": "Kyle Simpson",
+        "about": "You Don’t Know JS by Kyle Simpson is a series of books that examine the inner workings of the JavaScript language. Book one of this series assumes little or no prior JavaScript knowledge and introduces various programming building blocks which are explored in more depth in subsequent books. Saying that, I would hesitate to recommend this series to a beginner, as by the end of book two (Scope and Closures) the author is already tackling some pretty advanced stuff. For example exploring closures through implementing his own module loader."
+    },
+    {
+        "id": "6342579377be3cef3676fd94",
+        "quantity": 0,
+        "balance": "499",
+        "picture": "https://uploads.sitepoint.com/wp-content/uploads/2017/03/1488480697effective-js.jpg",
+        "name": "Effective JavaScript",
+        "author": "David Herman",
+        "about": "Weighing in at a somewhat slimmer 200 pages, Effective JavaScript by David Herman is part of the Effective Software Development Series. This book is aimed at existing programmers — either those who are just learning JavaScript or JavaScript programmers who are interested in deepening their knowledge of the language. As such, it is not suitable for beginners."
+    },
+    {
+        "id": "634257939b61fb0bdf30849c",
+        "quantity": 0,
+        "balance": "299",
+        "picture": "https://www.interviewbit.com/blog/wp-content/uploads/2022/01/Head-First-JavaScript-Programming-254x300.jpg",
+        "name": "Head first javascript",
+        "author": "Eric Freeman and Elisabeth Robson",
+        "about": "This is another gem from the Head First series, and it will teach you JavaScript in its own brand style, which means a lot of interactive reading and activities. The book is a must-read for every JavaScript novice and is excellent for anyone who wants to learn JavaScript. You’ll be playing games, solving puzzles, pondering riddles, and interacting with JavaScript in ways you’ve never imagined. You’ll also create a lot of real code so you can start creating your own web applications. Prepare to expand"
+    },
+    {
+        "id": "6342579345999f202b9dbf21",
+        "quantity": 0,
+        "balance": "199",
+        "picture": "https://www.interviewbit.com/blog/wp-content/uploads/2022/01/Smarter-Way-to-Learn-Javascript-212x300.jpg",
+        "name": "Smarter way to learn JS",
+        "author": "Mark Myers",
+        "about": "If you’re new to programming and have no prior experience with the JavaScript language, then this is the book for you. It’s also for intermediate JavaScript developers who want to improve their language knowledge. After you’ve finished each chapter, you can practice what you’ve learned with interactive tasks on the author’s website. This book will teach you all you need to know in layman’s terms"
+    },
+    {
+        "id": "63425793f45e4335cfa7b77d",
+        "quantity": 0,
+        "balance": "588",
+        "picture": "https://www.interviewbit.com/blog/wp-content/uploads/2022/01/Javascript-The-Good-Parts-230x300.jpg",
+        "name": "JavaScript: The Good Parts",
+        "author": "D Crockford",
+        "about": "Many in the development world regard author Douglas Crockford as the JavaScript guru, and he highlights the many good principles that make JavaScript an outstanding object-oriented programming language ideas like functions, loose typing, dynamic objects, and an expressive object literal notation. When Java applets failed, JavaScript became the Web’s default language, making its popularity virtually entirely independent of its programming abilities."
+    },
+    {
+        "id": "6342579387744080bcd97eb3",
+        "quantity": 65,
+        "balance": "$1,132.07",
+        "picture": "https://www.interviewbit.com/blog/wp-content/uploads/2022/01/Learn-Javascript-Visually-240x300.jpg",
+        "name": "Learn JavaScript Visually",
+        "author": "Ivelin Demirov",
+        "about": "Learn JavaScript VISUALLY is the best book for those who want to quickly grasp the basics of JavaScript. The book’s name comes from the fact that it uses a visual method to explain basic JavaScript principles. Using metaphors, analogies, and simple step-by-step activities, this beautifully illustrated book explains JavaScript principles. Visual learners retain knowledge in a fundamentally different way than the people who do not, and hence require distinct strategies."
+    },
+    {
+        "id": "63425793760fe755fa05b295",
+        "quantity": 0,
+        "balance": "564",
+        "picture": "https://www.interviewbit.com/blog/wp-content/uploads/2022/01/JavaScript-The-Definitive-Guide-227x300.jpg",
+        "name": "The Definitive Guide",
+        "author": "David Flanagan",
+        "about": "This top-selling has been the go-to guide for JavaScript programmers for nearly 25 years. New chapters cover classes, modules, iterators, generators, Promises, async/await, and meta-programming, and the seventh edition is fully updated to cover the 2020 version of JavaScript."
+    },
+    {
+        "id": "63425793424a7015dfc900d5",
+        "quantity": 0,
+        "balance": "234",
+        "picture": "https://www.interviewbit.com/blog/wp-content/uploads/2022/01/Principles-of-Object-Oriented-JavaScript-227x300.jpg",
+        "name": "The Principles of Object-Oriented JavaScript",
+        "author": "Nicholas C. Zakas ",
+        "about": "Nicholas C. Zakas delves deep into JavaScript’s object-oriented nature in The Principles of Object-Oriented JavaScript, demonstrating the language’s unique implementation of inheritance and other crucial properties"
+    }
+]
